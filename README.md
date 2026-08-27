@@ -15,6 +15,3 @@
 - **Subject:** WEB DESING ACT 1
 - **Professor:** Jonathan Alexis Puente Guerrero
 
-# Flor Arte
-
-![Logo de Flor Arte](logo_flor_arte.png)
