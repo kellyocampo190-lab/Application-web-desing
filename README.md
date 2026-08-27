@@ -2,6 +2,7 @@
 <p align="center">
   <img src="logo_flor_arte.png" alt="Flor Arte logo" width="300">
 </p>
+
 ## About the Project
 
 Flor Arte is an artificial flower shop that I own and manage with my sister. This project focuses on designing and developing a website that represents the brand, showcases its floral products, and provides customers with a clear and attractive way to learn about the business.
