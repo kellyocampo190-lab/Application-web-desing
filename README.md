@@ -1,4 +1,7 @@
 # Application Web Design
+<p align="center">
+  <img src="logo_flor_arte.png" alt="Flor Arte logo" width="300">
+</p>
 
 ## Student Information
 
@@ -12,3 +15,6 @@
 - **Subject:** WEB DESING ACT 1
 - **Professor:** Jonathan Alexis Puente Guerrero
 
+# Flor Arte
+
+![Logo de Flor Arte](logo_flor_arte.png)
