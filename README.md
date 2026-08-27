@@ -1,7 +1,4 @@
 # Application Web Design
-<p align="center">
-  <img src="logo_flor_arte.png" alt="Flor Arte logo" width="300">
-</p>
 
 ## Student Information
 
